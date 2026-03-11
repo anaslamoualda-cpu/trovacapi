@@ -1,0 +1,7 @@
+project_id = "bruxqgqgzcnshrmzptnd"
+
+[functions.analyze-clothing]
+verify_jwt = false
+
+[functions.search-products]
+verify_jwt = false
